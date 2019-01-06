@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/png"/>
+    <qresource prefix="/">
+        <file>background.png</file>
+        <file>learnPic.png</file>
+        <file>reviewPic.png</file>
+        <file>searchPic.png</file>
+    </qresource>
+</RCC>

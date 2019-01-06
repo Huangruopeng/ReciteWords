@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\NoFocusDelegate.o
+./release\server.o
+./release\tcpclientsocket.o
+./release\moc_widget.o
+./release\moc_server.o
+./release\moc_tcpclientsocket.o
+./release\moc_receivethread.o
+./release\moc_getdatathread.o
+);
